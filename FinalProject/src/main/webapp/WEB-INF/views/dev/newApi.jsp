@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	addr api!!!!
+	API function added!!!
 </body>
 </html>
