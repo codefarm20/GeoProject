@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Kakao Map test!!!
+	API added
 </body>
 </html>
