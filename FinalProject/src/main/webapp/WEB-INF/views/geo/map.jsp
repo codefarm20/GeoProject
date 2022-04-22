@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Kakao Geo Test!!!
+	Kakao Map test!!!
 </body>
 </html>
